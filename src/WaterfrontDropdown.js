@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function WaterfrontDropdown(props) {
+export default function WaterfrontDropdown({ setWaterFront }) {
   return (
     <div>
       Select a Waterfront
